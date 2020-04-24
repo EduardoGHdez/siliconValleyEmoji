@@ -17,9 +17,9 @@
 
 ![dinesh](png/dinesh.png)
 
-* elrich
+* erlich
 
-![elrich](png/elrich.png)
+![erlich](png/erlich.png)
 
 * gavin
 
